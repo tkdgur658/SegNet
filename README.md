@@ -1,7 +1,7 @@
 
-# Implementation of Attention UNet using PyTorch Deep Learning Framework
+# Implementation of SegNet using PyTorch Deep Learning Framework
  
-The architecture was inspired by Attention-guided version of 2D UNet for automatic brain tumor segmentation. 
+The architecture was inspired by Segnet: A deep convolutional encoder-decoder architecture for image segmentation. 
 
 ## Overview
 This repository contains an unofficial implementation of SegNet using PyTorch.<br/>
